@@ -1,0 +1,13 @@
+作业一说明：spring-mvc-self
+
+ 没有权限
+    url ：http://localhost:8080/demo/query?username=lisi  
+ 有权限
+    url ：http://localhost:8080/demo/query?username=zhangsan
+
+
+作业二说明：ssj整合
+
+
+    该项目需要用8.0以上版本的tomcat启动，我用tomcat7插件启动报错，
+我使用的tomcat版本是8.5.51
