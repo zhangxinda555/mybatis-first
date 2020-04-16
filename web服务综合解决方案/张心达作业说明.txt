@@ -1,0 +1,1 @@
+配置文件夹下分别是nginx、tomcat1和tomcat2的配置文件，tomcat的端口一个使用8080，一个使用8081
