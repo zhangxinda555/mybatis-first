@@ -1,0 +1,5 @@
+zookeeper-rpc 包含作业 1，2 题。
+
+zookeeper-web 作业3题。
+
+说明：连接zookeeper 我使用的是自己的远程地址 ， 数据库连接使用的是我本地的test数据库
